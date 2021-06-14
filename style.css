@@ -71,7 +71,7 @@ button{
 	padding: 12px 10px;
 	outline: none;
 	color: #fff;
-	background: linear-gradient(to right #)
+	background: linear-gradient(to right, #ff469f, #ff3527);
 	border-radius: 6px;
 	cursor: pointer;
 	transition: 0.6s;
